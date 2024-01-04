@@ -1,7 +1,7 @@
 ### Hello👋
 ### I'm an aspiring software engineer
 
-- Currently working on Tivelet for 3, a Roblox open world rpg with souls like combat
+- Currently working on Tivelet, started on 2022-05-07, a Roblox open world rpg with souls like combat
   
 - I have 4 years of experience with Lua, and Python
 - I have 3 years of experience with C++, and Java
