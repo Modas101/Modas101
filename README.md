@@ -8,7 +8,7 @@
 
 - 🤔 I am currently learning Rust, Type-Script
 
-- My favourite abstract data structure is the FILO stack
+- My favourite abstract data structure is the stack
 - My proudest achievement is being top 100 or top 2% in the CCC junior contest 2023. My first ever competitive contest!
 
 - For 2024, I want to...
