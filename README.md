@@ -12,8 +12,7 @@
 
 - For 2024, I want to...
 1. Finalize the alpha release of My Game
-2. Get into the CCO and hopefully participate in Canada's IOI team and be a gold medalist
-
+2. Become more familiar with various fields from web development to computer graphics to data analysis to machine learning
 <!--
 **Modas101/Modas101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
