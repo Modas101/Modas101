@@ -2,9 +2,9 @@
 ### I want to be a computer scientist
 
 - Currently working a Roblox open world rpg with souls like combat
-- 
 - I have 4 years of experience with Lua, and Python
 - I have 3 years of experience with C++, and Java
+- I learnt C# in the past, but no longer use it
 
 - I am currently learning Rust, Type-Script
 
