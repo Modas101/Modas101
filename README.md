@@ -1,18 +1,4 @@
 ### Hello
-### I want to be a computer scientist
-
-- Currently working a Roblox open world rpg with souls like combat
-- I have 4 years of experience with Lua, and Python
-- I have 3 years of experience with C++, and Java
-- I learnt C# in the past, but no longer use it
-
-- I am currently learning Rust, Type-Script
-
-- My proudest achievement is being top 100 or top 2% in the CCC junior contest 2023 on my first attempt
-
-- For 2024, I want to...
-1. Finalize the alpha release of My Game
-2. Become more familiar with various fields from web development to computer graphics to data analysis to machine learning
 <!--
 **Modas101/Modas101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
